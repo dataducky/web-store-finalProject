@@ -1,0 +1,9 @@
+<?php
+  include_once('db_fns_duck.php');
+  include_once('data_valid_fns.php');
+  include_once('output_fns_duck.php');
+  include_once('product_fns.php');
+  include_once('user_auth_fns_duck.php');
+  include_once('admin_fns_duck.php');
+  include_once('order_fns_duck.php');
+?>
